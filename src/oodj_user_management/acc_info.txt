@@ -1,0 +1,15 @@
+userID,username,password,role,status
+CA001,ALI,1234,CourseAdmin,Active,What is your name?,Mimi
+AO002,ABU,1234,AcademicOfficer,Active,What is your pet's name?,Mimi
+
+CA002,AKI,1234,CourseAdmin,Active,What is your favorite color?,Blue
+AO001,AKU,1234,AcademicOfficer,Deactive,What is your favorite color?,Blue
+
+CA003,IKI,1234,CourseAdmin,Deactive,Whas is your name?,osas
+
+CA004,AAA,1234,CourseAdmin,Deactive,i'm boy,yes
+
+AO003,Charls,123467,AcademicOfficer,Active,67forlyfe,67yesking
+charlsAdmin,charls,1234,CourseAdmin,Active,speed i need this,my momma kinda homeless
+
+CA007,ACU,1111,CourseAdmin,Deactive,My car's color,blue

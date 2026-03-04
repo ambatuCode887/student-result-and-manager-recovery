@@ -1,0 +1,41 @@
+module_code,module_name,credit_hours,programme,level
+MPU2173-PEP,Penghayatan Etika dan Peradaban,3,Common,MPU
+MPU2213-BM(A),Bahasa Kebangsaan A,3,Common,MPU
+MPU2222-PRCOM,Professional Communications,2,Common,MPU
+MPU2412-CC1,Co-Curricular 1,2,Common,MPU
+MPU2332-EIM,Environmental Issues in Malaysia,2,Common,MPU
+AAPP014-4-1-IVIP,Introduction to Visual and Interactive Programming,4,Diploma in ICT (SE),Diploma
+ABUS007-4-1-ARS,Academic Research Skills,4,Diploma in ICT (SE),Diploma
+AICT002-4-1-IS,Information Systems,4,Diploma in ICT (SE),Diploma
+AICT016-4-DTIN,Digital Thinking and Innovation,4,Diploma in ICT (SE),Diploma
+AAQS007-4-1-DM,Discrete Mathematics,4,Diploma in ICT (SE),Diploma
+AICT011-4-1-OSC,Operating Systems and Computer Architecture,4,Diploma in ICT (SE),Diploma
+AICT015-4-1-DBM,Database Management,4,Diploma in ICT (SE),Diploma
+AAPP015-4-1-PWP,Programming with Python,4,Diploma in ICT (SE),Diploma
+AAPP002-4-2-IAI,Introduction to Artificial Intelligence,4,Diploma in ICT (SE),Diploma
+AAQS035-4-2-ACAL,Algebra and Calculus,4,Diploma in ICT (SE),Diploma
+AINT007-4-1-FUUD,Fundamentals of UI/UX Design,4,Diploma in ICT (SE),Diploma
+AINT101-1-1-AIML,Introduction to AI & ML,4,BSc (Hons) in Artificial Intelligence,Level 1
+AAPP101-1-1-JP,Java Programming,4,BSc (Hons) in Artificial Intelligence,Level 1
+AAQS101-1-1-LA,Linear Algebra,4,BSc (Hons) in Artificial Intelligence,Level 1
+STAT101-1-1-PS,Probability & Statistics,3,BSc (Hons) in Artificial Intelligence,Level 1
+SEIS101-1-1-SD,Software Design,4,BSc (Hons) in Software Engineering,Level 1
+AAPP102-1-1-DSA,Data Structures & Algorithms,4,BSc (Hons) in Software Engineering,Level 1
+SEPM101-1-1-PM,Software Project Management,3,BSc (Hons) in Software Engineering,Level 1
+SETE101-1-1-ST,Software Testing,3,BSc (Hons) in Software Engineering,Level 1
+CSCI101-1-1-CSF,Computer Systems Fundamentals,4,BSc (Hons) in Computer Science,Level 1
+CSCI102-1-1-DSA,Data Structures & Algorithms,4,BSc (Hons) in Computer Science,Level 1
+CSCI103-1-1-NET,Networks & Security,3,BSc (Hons) in Computer Science,Level 1
+CSCI104-1-1-OOP,Object-Oriented Programming,4,BSc (Hons) in Computer Science,Level 1
+CYB101-1-1-NS,Network Security,4,BSc (Hons) in Cyber Security,Level 1
+CYB102-1-1-DF,Digital Forensics,4,BSc (Hons) in Cyber Security,Level 1
+CYB103-1-1-CE,Cryptography Essentials,3,BSc (Hons) in Cyber Security,Level 1
+CYB104-1-1-SC,Secure Coding,3,BSc (Hons) in Cyber Security,Level 1
+IT101-1-1-WD,Web Development,4,BSc (Hons) in Information Technology,Level 1
+IT102-1-1-DB,Database Systems,4,BSc (Hons) in Information Technology,Level 1
+IT103-1-1-SAD,Systems Analysis & Design,3,BSc (Hons) in Information Technology,Level 1
+IT104-1-1-CLD,Cloud Fundamentals,3,BSc (Hons) in Information Technology,Level 1
+DA101-1-1-PY,Programming for Data Analytics,4,BSc (Hons) in Data Analytics,Level 1
+DA102-1-1-DAW,Data Acquisition & Wrangling,4,BSc (Hons) in Data Analytics,Level 1
+DA103-1-1-VIZ,Data Visualization,3,BSc (Hons) in Data Analytics,Level 1
+DA104-1-1-STAT,Statistical Methods,3,BSc (Hons) in Data Analytics,Level 1

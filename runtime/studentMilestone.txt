@@ -1,0 +1,26 @@
+student_id|module_code|study_week|task|progress
+TP074908|AAQS007-4-1-DM|Week 5 - 7|Do revision|Completed
+TP074908|AICT016-4-DTIN|Week 1 - 3|Review nugger|Ongoing
+TP074908|AAQS007-4-1-DM|Week 1 - 3|Review Notes|Ongoing
+TP074908|AAPP014-4-1-IVIP|Week 1 - 3|Review Notes|Ongoing
+TP074908|AAPP014-4-1-IVIP|Week 4 - 7|Prep for finals|Ongoing
+TP074908|ABUS007-4-1-ARS|Week 1 - 2|Meet with lecturer|Ongoing
+TP074908|ABUS007-4-1-ARS|Week 3 - 7|finish assignment and study for finals|Ongoing
+TP074908|AICT002-4-1-IS|Week 1 - 3|Study for mock test|Ongoing
+TP074908|AICT002-4-1-IS|Week 4 - 7|Study for finals|Ongoing
+TP074908|AICT016-4-DTIN|Week 4 - 7|Finals study|Ongoing
+TP074904|AAPP014-4-1-IVIP|Week 1 - 3|Review Notes|Ongoing
+TP074904|AAPP014-4-1-IVIP|Week 4 - 7|Finals study|Ongoing
+TP074904|ABUS007-4-1-ARS|Week 1 - 2|meet lecturer|Ongoing
+TP074904|ABUS007-4-1-ARS|Week 3 - 5|Discuss with lecturer with mock test|Ongoing
+TP074904|ABUS007-4-1-ARS|week 6 - 7|study for final exam|Ongoing
+TP074904|AICT016-4-DTIN|Week 1 - 3|Review Notes|Ongoing
+TP074904|AICT016-4-DTIN|Week 4  - 7|study course material|Ongoing
+TP074904|AAQS007-4-1-DM|Week 1 - 3|Review Notes|Ongoing
+TP074904|AAQS007-4-1-DM|Week 4 - 7|Study for finals|Ongoing
+TP087002|CYB101-1-1-NS|Week 1 - 3|Review Notes|Ongoing
+TP087002|CYB101-1-1-NS|Week 4 - 7|Study week|Ongoing
+TP087002|CYB102-1-1-DF|Week 1 - 3|Review Notes|Ongoing
+TP087002|CYB102-1-1-DF|Week 4 - 7|Study Finals|Ongoing
+TP087002|CYB104-1-1-SC|Week 1 - 3|Review Notes|Ongoing
+TP087002|CYB104-1-1-SC|Week 4 - 7|Study Finals|OngoingTP074904

@@ -1,0 +1,22 @@
+student_id,name,programme,intake,intake_code,level,year,status,email
+TP074901,Arissa Tan,Diploma in ICT (SE),Sep 2025,APU1D2509SE,Diploma,2,Active,arissa.tan@example.com
+TP074907,Jayden Ng,Diploma in ICT (SE),Sep 2025,APU1D2509SE,Diploma,2,Active,jayden@example.com
+TP074906,Wong Zhi Wei,Diploma in ICT (SE),Sep 2025,APU1D2509SE,Diploma,2,Active,wong.zw@example.com
+TP074905,Nur Aisyah,Diploma in ICT (SE),Mar 2025,APU1D2503SE,Diploma,2,Active,TP108438@mail.apu.edu.my
+TP074902,Daniel Teo,Diploma in ICT (SE),Mar 2025,APU1D2503SE,Diploma,2,Active,Charlshau03@gmail.com
+TP074903,Farah Ali,Diploma in ICT (SE),Nov 2024,APU1D2411SE,Diploma,1,Active,TP074904@mail.apu.edu.my
+TP074908,Priya Nair,Diploma in ICT (SE),Nov 2024,APU1D2411SE,Diploma,1,Active,charlshau03@gmail.com
+TP074904,Haziq Rahman,Diploma in ICT (SE),Sep 2025,APU1D2509SE,Diploma,2,Active,haziq.rahman@example.com
+TP074909,Lim Jia Hao,Diploma in ICT (SE),Sep 2025,APU1D2509SE,Diploma,2,Active,lim.jh@example.com
+TP084001,Ariana Lee,BSc (Hons) in Artificial Intelligence,Sep 2024,APU2B2409AI,Level 1,1,Active,ariana.lee@example.com
+TP084002,Brandon Koh,BSc (Hons) in Artificial Intelligence,Sep 2025,APU2B2509AI,Level 1,1,Active,brandon.koh@example.com
+TP085001,Cheryl Ng,BSc (Hons) in Software Engineering,Sep 2025,APU2B2509SE,Level 1,1,Active,cheryl.ng@example.com
+TP085002,Daniel Tan,BSc (Hons) in Software Engineering,Jul 2025,APU2B2507SE,Level 1,1,Active,daniel.tan@example.com
+TP086001,Evelyn Wong,BSc (Hons) in Computer Science,Nov 2025,APU2B2511CS,Level 1,1,Active,evelyn.wong@example.com
+TP086002,Farhan Azmi,BSc (Hons) in Computer Science,Sep 2024,APU2B2409CS,Level 1,1,Active,farhan.azmi@example.com
+TP087001,Grace Lim,BSc (Hons) in Cyber Security,Sep 2025,APU2B2509CY,Level 1,1,Active,grace.lim@example.com
+TP087002,Haris Iqbal,BSc (Hons) in Cyber Security,Mar 2025,APU2B2503CY,Level 1,1,Active,haris.iqbal@example.com
+TP088001,Isabella Chua,BSc (Hons) in Information Technology,Nov 2025,APU2B2511IT,Level 1,1,Active,isabella.chua@example.com
+TP088002,Jason Ong,BSc (Hons) in Information Technology,Sep 2025,APU2B2509IT,Level 1,1,Active,jason.ong@example.com
+TP089001,Khairul Anwar,BSc (Hons) in Data Analytics,Sep 2025,APU2B2509DA,Level 1,1,Active,khairul.anwar@example.com
+TP089002,Lina Goh,BSc (Hons) in Data Analytics,Mar 2025,APU2B2503DA,Level 1,1,Active,lina.goh@example.com
